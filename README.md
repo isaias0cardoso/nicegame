@@ -1,6 +1,6 @@
 # Nice Game
 
-![Capa do Projeto](https://github.com/isaias0cardoso/piano-app-flutter/blob/main/Piano%20App.png)
+![Capa do Projeto](https://github.com/isaias0cardoso/nicegame/blob/main/Nice%20Game.png)
 
 ## Description
 
