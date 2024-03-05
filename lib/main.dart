@@ -8,7 +8,7 @@ void main() {
       initialRoute: '/splash',
       routes: {
         '/splash': (context) => SplashScreen(),
-        '/home': (context) => HomePage(),
+        '/home': (context) => const HomePage(),
       },
       debugShowCheckedModeBanner: false,
     ),
