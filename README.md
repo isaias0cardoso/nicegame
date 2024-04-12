@@ -18,6 +18,10 @@ Nice Game is a simple app that generates random files when the button is pressed
 2. Press the button to generate the random files.
 3. Try to get 4 identical images!
 
+## Usando a Biblioteca de Matemática Dart
+
+Este aplicativo utiliza a biblioteca 'dart:math' para gerar números aleatórios.
+
 ## Contribution
 
 Contributions are welcome! If you want to contribute to Nice Game, follow these steps:
